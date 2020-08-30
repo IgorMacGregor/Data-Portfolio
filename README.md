@@ -2,7 +2,7 @@
 
 Hi ! In this repository, you will find all my data-related projects, mostly coming from Kaggle which I used a lot to self-learn Data Analysis and Data Science. 
 
-This page is still WIP, and I plan to regularly add new projects!
+I will add new projects regularly as I find interesting datasets to work on. I am looking for an internship/contract in January 2021, so feel free to contact me if I could fit your needs ! :)
 
 # Content
 
